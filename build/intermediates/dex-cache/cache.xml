@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-491ff4457f923f429b8c9a543ecfefac2bed289c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-86fa0b235aeae942e9484b33b712a37bb7e64de6.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-4c7666ec6f2f4dd36c10444a70ab847db33e2630.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-6515e27e5a11125429f5d9602290e12ed0f3e04a.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-03cb8294396c862cffc6e2acbcb651eb41d8d0a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-60309234df7580ea71331a401db11161b50541a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-fa901fa21e5626966f31e4ceb020c8ab5c86a23b.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-cda5475af72f9ccb42d5c92c202032645e340f9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-33a1c2a371233ceb827197b29bca2789275a9725.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-48cc354190549d8da3999cefda7559d376eb1b25.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-2544a76df9fdac13999931f3581ef67424d4cb88.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-57a77371b6d62aaa71244521f3cfbf779b7217c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-f35bd777c673e56696fb2ec3fc70ba7d541e03e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-da756b6ee0917eca5693b733795947018f05925f.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-70d4d0b7111b26661d8c7dcaeef9c368b07bf484.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-637b5fc720f32aeb857fce9ebc32d26183e01385.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-7f8ee2fa392f9ec0a3671cff96f60608f82d80fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-06fef78fc824ac0e54b5ec58e693cce8c6f4442a.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-8e6fe92a5310fd7767b436a30c976f5d4c9d509e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-ae262c0db309758cd4c0c7659d50b6f270fc2c86.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-cee1c8b0d1e26d4fec284dd21d0983dfc485e3ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="62209cacb78ffe64f71ed8527fd08d8fbb9fd433">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-156e2cf2f3e14486e68cc487c35bdd7ae0c0ef42.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-edfd408a67a9ac17058f533c4217e0dcf92428bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-9148392c4297099315913b5e003e42d8a64d6c28.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-30986fd9ca2b29e2e210eb084f4ed08732aad9e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-e3c350ad6208a1ac43b340e9bc780a958835dbc8.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-f880bda884d9e6fae860f402fa3912a58a70ef79.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-88c71daf93a2989d53e7c5b42e5557bb6b0270f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\classes-f6ebaccc9d334114fa86168600a475c1c959dc37.jar" />
+    </item>
+    <item
+        jar="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\ksook\AndroidStudioProjects\HoppingBird\HoppingBird\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-325ce92c79905a9c6ea06201adb06d3cb75aa668.jar" />
+    </item>
+
+</items>
